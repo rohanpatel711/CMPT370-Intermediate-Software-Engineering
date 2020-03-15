@@ -1,6 +1,24 @@
 # CMPT370-Intermediate-Software-Engineering
 
 
+## Member Information:  
+
+Name: MD SAIDUZZAMAN TALUKDER  
+email: mdt014@usask.ca  
+NSID: mdt014  
+
+Name: ALAVI SHARAR KHAN  
+email: ask172@usask.ca  
+NSID: ask172  
+
+Name: SHUBHKARMAN SOHI  
+email: sss669@usask.ca  
+NSID: sss669  
+
+Name: ROHAN PATEL  
+email: rsp502@usask.ca  
+NSID: rsp502
+
 # Product name : Rock A Job
 ## Product Description
 Our product is designed to help users who want to make quick money by doing an odd job or for users who are not skilled enough to do that job can get it done by posting it. Odd jobs are not just limited to trimming lawns or shoveling snow but can vary vastly from designing and building a small webpage to walking a dog.  
