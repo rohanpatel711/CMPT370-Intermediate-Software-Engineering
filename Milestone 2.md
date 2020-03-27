@@ -1,4 +1,6 @@
-# Persona 1
+# Preliminary Requirements
+
+## Persona 1
 ## Emily Wright
 
 Emily Wright is the HR and Scheduling manager of BuildItQuick a construction firm in the Bahamas. She has a 9-5 job and likes it that way. She likes to follow a fixed schedule and gets frustrated when it gets interrupted by unwanted chores.  
@@ -29,7 +31,7 @@ ___
 ___
 ___
     
-# Persona 2:
+## Persona 2:
 ## Logan Paul
 
 Logan Paul is an international student at U of S. He is very serious about his studies and does not want to compromise his studies for anything. He also has a restriction that he can work only 20 hours per week as an international student.
@@ -59,7 +61,7 @@ ___
 ___
 ___
     
-# Persona 3:  
+## Persona 3:  
 ## William Brown
 
 Snow white is an old lady with many physical disabilities who has many houses in this small city. She gives her houses for rent. She is living on her pensions and rents.  
@@ -89,7 +91,7 @@ ___
 ___
 ___
     
-# Persona 4
+## Persona 4
   
 ## Thomas Smith  
 
@@ -98,16 +100,16 @@ He knows he has the skills but is just not able to implement them to good use.
 He has applied to dozens of companies but is not a social person thus never made many references because of which he gets rejected from where ever he applies.  
 He now has given up on the job search and is just doing some freelance work, which also has not caught much attention because he is not able to find a good platform to advertise himself.  
   
-# Epic  
+## Epic  
 
 As an unemployed web developer who does not want to do a 9-5 job anymore, I am looking for a good platform to advertise my freelance work and earn some money until I figure my life out.  
   
-# User Stories  
+## User Stories  
   
 * As an unemployed web developer I want to post my freelancer add on a platform where it will be visible to potential employes locally  
 * As an unemployed web developer I want to see if somebody locally wants to get some small web design or implementation done.  
   
-# Acceptance test
+## Acceptance test
 * A user can post a job which will be visible in his locality only.
 1. Test weather a job posting gets posted successfully
 2. Test weather the job posting is visible locally
@@ -117,7 +119,7 @@ As an unemployed web developer who does not want to do a 9-5 job anymore, I am l
 2. Test posted jobs disappear after picked
 3. Test successful picking of jobs
 
-# Story point
+## Story point
 10 points on a 20 point scale.   
 Will take about 4-5 hours to implement.
     
@@ -125,7 +127,7 @@ ___
 ___
 ___
     
-# Persona 5
+## Persona 5
 ## Shrey Patel
 
 Shrey Patel is a Permanent Resident in Canada (Originally from India). He's the only one contributing to the family's income. He is currently doing a full-time job but he finds it really difficult to manage the family expenses. He is always looking for some odd jobs which would be completed in a short duration and would pay him enough, To get the extra income in the house to carry out other unexpected expenses and trying to save money for any emergencies.
