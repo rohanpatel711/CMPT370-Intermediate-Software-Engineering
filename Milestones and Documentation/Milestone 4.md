@@ -2,20 +2,36 @@
 
 #### Low Fidelity Storyboard sketches.
 
-1) https://github.com/rohanpatel711/CMPT370-Intermediate-Software-Engineering/blob/master/Diagrams/Design%20Storyboard-%20Low%20Fidelity%20Storyboard%20Sketch.jpg
-2) https://github.com/rohanpatel711/CMPT370-Intermediate-Software-Engineering/blob/master/Diagrams/Design%20Storyboard-%20Low%20Fidelity%20Storyboard%20Sketch%201.jpg
-3) https://github.com/rohanpatel711/CMPT370-Intermediate-Software-Engineering/blob/master/Diagrams/Design%20Storyboard-%20Low%20Fidelity%20Storyboard%20Sketch%202.jpg
-4) https://github.com/rohanpatel711/CMPT370-Intermediate-Software-Engineering/blob/master/Diagrams/Design%20Storyboard-%20Low%20Fidelity%20Storyboard%20Sketch%203.jpg
-5) https://github.com/rohanpatel711/CMPT370-Intermediate-Software-Engineering/blob/master/Diagrams/Design%20Storyboard-%20Low%20Fidelity%20Storyboard%20Sketch%204.jpg
-6) https://github.com/rohanpatel711/CMPT370-Intermediate-Software-Engineering/blob/master/Diagrams/Design%20Storyboard-%20Low%20Fidelity%20Storyboard%20Sketch%205.jpg
+------------
+![Diagram of StoryBoard](https://github.com/rohanpatel711/CMPT370-Intermediate-Software-Engineering/blob/master/Diagrams/Design%20Storyboard-%20Low%20Fidelity%20Storyboard%20Sketch.jpg)
+------------
+![Diagram of StoryBoard1](https://github.com/rohanpatel711/CMPT370-Intermediate-Software-Engineering/blob/master/Diagrams/Design%20Storyboard-%20Low%20Fidelity%20Storyboard%20Sketch%201.jpg)
+------------
+![Diagram of StoryBoard2](https://github.com/rohanpatel711/CMPT370-Intermediate-Software-Engineering/blob/master/Diagrams/Design%20Storyboard-%20Low%20Fidelity%20Storyboard%20Sketch%202.jpg)
+------------
+![Diagram of StoryBoard3](https://github.com/rohanpatel711/CMPT370-Intermediate-Software-Engineering/blob/master/Diagrams/Design%20Storyboard-%20Low%20Fidelity%20Storyboard%20Sketch%203.jpg)
+------------
+![Diagram of StoryBoard4](https://github.com/rohanpatel711/CMPT370-Intermediate-Software-Engineering/blob/master/Diagrams/Design%20Storyboard-%20Low%20Fidelity%20Storyboard%20Sketch%204.jpg)
+------------
+![Diagram of StoryBoard5](https://github.com/rohanpatel711/CMPT370-Intermediate-Software-Engineering/blob/master/Diagrams/Design%20Storyboard-%20Low%20Fidelity%20Storyboard%20Sketch%205.jpg)
+------------
 
 #### High Fidelity Layout (Using AdobeXD)
 
-1) https://github.com/rohanpatel711/CMPT370-Intermediate-Software-Engineering/blob/master/Diagrams/Homepage%20Adobe%20XD%20Design.png
-2) https://github.com/rohanpatel711/CMPT370-Intermediate-Software-Engineering/blob/master/Diagrams/Log%20In%20Adobe%20XD%20Design.png
-3) https://github.com/rohanpatel711/CMPT370-Intermediate-Software-Engineering/blob/master/Diagrams/Pick%20a%20Job%20Adobe%20XD%20Design.png
-4) https://github.com/rohanpatel711/CMPT370-Intermediate-Software-Engineering/blob/master/Diagrams/Post%20a%20Job%20Adobe%20XD%20Design.png
-5) https://github.com/rohanpatel711/CMPT370-Intermediate-Software-Engineering/blob/master/Diagrams/Sign%20Up%20Adobe%20XD%20Design.png
+------------
+#### Homepage
+![Diagram of AdobeXD](https://github.com/rohanpatel711/CMPT370-Intermediate-Software-Engineering/blob/master/Diagrams/Homepage%20Adobe%20XD%20Design.png)
+------------
+#### Log In
+![Diagram of AdobeXD1](https://github.com/rohanpatel711/CMPT370-Intermediate-Software-Engineering/blob/master/Diagrams/Log%20In%20Adobe%20XD%20Design.png)
+------------
+
+![Diagram of AdobeXD2](https://github.com/rohanpatel711/CMPT370-Intermediate-Software-Engineering/blob/master/Diagrams/Pick%20a%20Job%20Adobe%20XD%20Design.png)
+------------
+![Diagram of AdobeXD3](https://github.com/rohanpatel711/CMPT370-Intermediate-Software-Engineering/blob/master/Diagrams/Post%20a%20Job%20Adobe%20XD%20Design.png)
+------------
+![Diagram of AdobeXD4](https://github.com/rohanpatel711/CMPT370-Intermediate-Software-Engineering/blob/master/Diagrams/Sign%20Up%20Adobe%20XD%20Design.png)
+------------
 
 #### Description
 
@@ -37,7 +53,7 @@
 
 ### Component Diagram: 
 
-https://github.com/rohanpatel711/CMPT370-Intermediate-Software-Engineering/blob/master/Diagrams/Component%20Diagram(Rock%20A%20Job)%20.jpg
+![Diagram of Component Diagram](https://github.com/rohanpatel711/CMPT370-Intermediate-Software-Engineering/blob/master/Diagrams/Component%20Diagram(Rock%20A%20Job)%20.jpg)
 
 ### Description
 
