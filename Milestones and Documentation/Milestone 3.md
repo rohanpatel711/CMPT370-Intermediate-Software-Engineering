@@ -1,6 +1,6 @@
 # Domain Model
 
-https://github.com/rohanpatel711/CMPT370-Intermediate-Software-Engineering/blob/master/Diagrams/Domain%20Model%20Diagram(Rock%20A%20Job).jpg
+![Image of Domain Model Diagram(Rock A Job)](https://github.com/rohanpatel711/CMPT370-Intermediate-Software-Engineering/blob/master/Diagrams/Domain%20Model%20Diagram(Rock%20A%20Job).jpg)
 
 #### Software used for UML Diagram: IBM Rational Rose
 
@@ -29,7 +29,7 @@ The whole payment part is done over here. This class will have all the necessary
 
 # Database Schema
 
-https://github.com/rohanpatel711/CMPT370-Intermediate-Software-Engineering/blob/master/Diagrams/Databse%20Schema(Rock%20A%20Job).png
+![Image of Databse Schema(Rock A Job)](https://github.com/rohanpatel711/CMPT370-Intermediate-Software-Engineering/blob/master/Diagrams/Databse%20Schema(Rock%20A%20Job).png)
 
 ### Details
 
