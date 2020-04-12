@@ -17,9 +17,3 @@ Fortunately, there are a couple of apps available on app stores that are quite s
 
 ## Technology requirements
 So far we have decided to make a website, which will require HTML/CSS and Javascript. Storing all the user information will require a possible SQL database. We are still deciding whether to use or not any kind of web framework(Bootstrap, Ruby JS, Django). We will also require a staging environment to host/deploy the website. 
-  
-## Action Plan
-We planned, designed and made the initial looks for the home and login pages.  
-Shubh and Rohan designed the Home page.   
-Alavi and Saiduzzaman designed the Login page.  
-We will pick a design and work the project around it.
